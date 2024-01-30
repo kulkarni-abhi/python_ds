@@ -1,3 +1,11 @@
+"""
+Python implementation of Linked List
+
+Author: Abhishek Kulkarni
+email : kulkarni.abhishek12@gmail.com
+
+""""
+
 class LinkedList:
     def __init__(self):
         self.head = None
